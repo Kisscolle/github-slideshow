@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "bmad-creative-intelligence-suite": "^0.1.9",
+    "bmad-method": "^6.2.2"
+  }
+}
